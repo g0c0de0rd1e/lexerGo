@@ -1,0 +1,3 @@
+{A := B&C#D&E; while A {B := 2}}$
+{while A {B := 2}; A := B&C#D&E}$
+{while A {while A {B := 2}}; A := B&C#D&E}$
